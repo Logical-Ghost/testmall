@@ -1,0 +1,16 @@
+{
+  "id": "2510262",
+  "name": "蘑菇街",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5643526",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
